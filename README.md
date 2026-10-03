@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of constructions-incongrues/flarum-lite-youtube.** Not for installation: use [Packagist](https://packagist.org/packages/constructions-incongrues/flarum-lite-youtube) or the [upstream repository](https://github.com/constructions-incongrues/flarum-lite-youtube).
 
-**0** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/constructions-incongrues-flarum-lite-youtube/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.5.0`
+**2** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/constructions-incongrues-flarum-lite-youtube/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.5.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2025-10-24 | `^1.5.0` | [Browse](https://github.com/flarchive/constructions-incongrues-flarum-lite-youtube/tree/archive/v0.1.1) |
+| `v0.2.0` | 2025-10-24 | `^1.5.0` | [Browse](https://github.com/flarchive/constructions-incongrues-flarum-lite-youtube/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/constructions-incongrues-flarum-lite-youtube.json](https://github.com/flarchive/archive-index/blob/main/packages/constructions-incongrues-flarum-lite-youtube.json)
 
